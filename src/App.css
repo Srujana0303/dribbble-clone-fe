@@ -1,28 +1,8 @@
 .App {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 0;
-  margin: 0;
 }
 
-.Navbar {
-  background-color: #333;
-  color: white;
-  padding: 10px;
-  width: 100%;
-  text-align: center;
-  margin-bottom: 10px;
-}
 
-.MainPageContainer {
-  width: 100%;
-  padding: 20px;
-  box-sizing: border-box;
-  margin-top: 0; /* Ensure no top margin */
-}
 
-.menu {
-  position: relative;
-  padding: 10px 20px;
-}
+

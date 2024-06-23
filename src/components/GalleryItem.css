@@ -1,0 +1,36 @@
+.gallery-item {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+ 
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .item-details {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .item-details h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .item-details p {
+    margin: 5px 0;
+    color: gray;
+  }
+  
+  .item-stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    color: gray;
+  }
+  
